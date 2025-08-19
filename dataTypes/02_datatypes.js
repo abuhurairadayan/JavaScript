@@ -20,3 +20,18 @@ let country = null       // null
 
   // Non-Primitive datatypes
     // Object
+    let student = {
+        name: "huraira",
+        age: 23
+    }
+
+    // Array
+    let arr = [1, 2, 4, 5]
+
+    // typesof: its not datatype its just the method to check the datatype example
+
+    console.log(typeof age);
+    console.log(typeof null);
+    console.log(typeof student);
+    
+    
