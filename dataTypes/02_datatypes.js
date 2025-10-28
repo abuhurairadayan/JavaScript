@@ -30,8 +30,6 @@ let country = null       // null
 
     // typesof: its not datatype its just the method to check the datatype example
 
-    console.log(typeof age);
-    console.log(typeof null);
-    console.log(typeof student);
+    
     
     

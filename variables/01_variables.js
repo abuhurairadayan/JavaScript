@@ -1,20 +1,35 @@
-const accountId = 1234;
-let accountEmail = "dayanhuraira@gmail.com";
-var accountPassword = "4321";
+// let a;           variable declation
+// a = 10;          variable initialation
+// console.log(a);  use of printing of the variable
 
-accountCity = "Peshawar"
+// let a;          // variable declation
+// let b;          // variable declation
+// let c;          // variable declation
 
 
-// accountId = 2;
+// a = 10;         // variable initialization
+// b = 20;         // variable initialization
+// c = 30;         // variable initialization
 
-accountEmail = "huraira@gmail.com";
+// console.log(a , b, c);      // variable usage or printing
 
-accountPassword = "1234";
+// use of "var" , "let" and const
 
-accountCity = "lahore"
+var a = 12;
+console.log(a); 
 
-// console.log(accountPassword);
+a = 20;
+console.log(a);
 
-// console.log(accountEmail);
+var a = 15;
+console.log(a);
 
-console.table([accountId , accountEmail, accountPassword, accountCity]);
+
+
+
+
+
+
+
+
+
